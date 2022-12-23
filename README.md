@@ -10,7 +10,8 @@
 *   Xiaoyu Wang
 *   Yiren Dai
 
-### Institute: ECE Department, Tandon School of Engineering, NYU
+### Institute: 
+*   ECE Department, Tandon School of Engineering, NYU
 
 ### Directory Summary:
 
