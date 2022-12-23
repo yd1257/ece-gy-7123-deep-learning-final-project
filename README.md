@@ -13,7 +13,7 @@
 ### Institute: 
 *   ECE Department, Tandon School of Engineering, NYU
 
-### Directory Summary:
+### GitHub Codebase Directory Summary:
 
 - **best_model**: we saved the best test accuracy model file in this folder
 - **project_codebase**:
