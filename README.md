@@ -24,6 +24,7 @@
   - Python_Version: Python Version execution code
     - **confidence_score_mechanism_transformer**: The Confidence Score Mechanism Transformer model we implemented for this project
     - **original_transformer**: The Original Transformer which we used as comparison model.
+- **python_package_version_pip_list**: we saved the Python packages pip_list_details.txt file in this folder
 - **visualization**: we saved the best test accuracy model's:
   - Heat Map
   - Word Cloud
