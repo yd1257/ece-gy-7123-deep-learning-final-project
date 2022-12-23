@@ -16,6 +16,7 @@
 ### GitHub Codebase Directory Summary:
 
 - **best_model**: we saved the best test accuracy model file in this folder
+- **data**: we uploaded the RAW data and tokenizer data in this folder
 - **project_codebase**:
   - Jupyter_Notebook_Version: Jupyter Notebook Version execution code
   - Python_Version: Python Version execution code
