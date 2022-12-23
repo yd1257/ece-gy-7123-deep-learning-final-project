@@ -19,7 +19,11 @@
 - **data**: we uploaded the RAW data and tokenizer data in this folder
 - **project_codebase**:
   - Jupyter_Notebook_Version: Jupyter Notebook Version execution code
+    - confidence_score_mechanism_transformer: The Confidence Score Mechanism Transformer model we implemented for this project
+    - original_transformer: The Original Transformer which we used as comparison model.
   - Python_Version: Python Version execution code
+    - confidence_score_mechanism_transformer: The Confidence Score Mechanism Transformer model we implemented for this project
+    - original_transformer: The Original Transformer which we used as comparison model.
 - **visualization**: we saved the best test accuracy model's:
   - Heat Map
   - Word Cloud
